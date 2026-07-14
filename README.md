@@ -27,7 +27,4 @@ Hi, I'm Namish, a 17-year-old BCA student passionate about software development 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=namish-yadav&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=namish-yadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
